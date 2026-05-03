@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Akshat 👋
 
-<!--
-**razzakshat/razzakshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Student @ VIT Bhopal | Data Analyst | Growth & Strategy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 B.Tech AI — VIT Bhopal (Batch of 2027)
+- 📊 Ex Data Analyst Intern @ Thrillophilia (worked directly under founder)
+- ⚡ Currently working with CESC Rajasthan — RP Sanjeev Goenka Group
+- 🌐 Active member: Blockchain Club, NSS
+
+---
+
+### 🚀 Current Focus
+- Growth & Strategy roles
+- AI product development
+- Data-driven business decisions
+
+---
+
+### 📫 Reach Me
+- LinkedIn:https://www.linkedin.com/in/akshat-raj-60abb82a8/
+- Email: akshatraj0721@gmail.com
